@@ -13,8 +13,6 @@ Welcome to the official GitHub organization for the ASTRYX Research Group. We st
 * **Regulation & Resilience:** Studying policy, governance, risk, and resilience frameworks for rapidly evolving space technologies and space-based critical infrastructure.
 * **Cybersecurity for Space Systems:** Securing satellites, ground stations, command links, space data pipelines, and cyber-physical mission operations against modern threats.
 
-## 💻 Tech Stack & Tools
-
 ## 📂 Featured Initiatives
 
 * **IRIS-A (Integrated Resilience Integrity System for Autonomy):** Telemetry anomaly detection for communications, navigation, and tracking (CNT) systems.
