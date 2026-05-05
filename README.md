@@ -2,7 +2,7 @@
 
 **A**I · **S**pace Technologies · **R**egulation / **R**esilience · C**y**bersecurity for Space Systems (**X**)
 
-Welcome to the official GitHub organization for the ASTRYX Research Group. We study how intelligent, secure, and policy-aware technologies can strengthen the next generation of space infrastructure. Our work combines technical research, systems thinking, and policy analysis to protect and advance the space systems that societies increasingly depend on.
+Welcome to the official GitHub organization for the ASTRYX Research Group. We study how intelligent, secure, and policy-aware technologies can strengthen the next generation of space infrastructure. Our work combines technical research, systems thinking, and policy analysis to protect and advance space systems.
 
 ---
 
